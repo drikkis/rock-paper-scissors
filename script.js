@@ -96,10 +96,5 @@ function playGame() {
         scoreAnnouncment();
     }
 }
-    
-    // TODO finish game by adding win text and put function in a loop until someone has 3
-    // TODO figure out why the parenthesis isn't taking
-    // TODO if at least one of the scores is 3, end game - while loop?
-    // while (eitherScore < 3)
 
 
